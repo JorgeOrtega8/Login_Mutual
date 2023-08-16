@@ -2,7 +2,11 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #f7f0c9;
-    height: 100vh;
+    background-image: url(image_mutual.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
 }
+
 
